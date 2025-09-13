@@ -16,15 +16,6 @@ An AI-powered tool built with PyTorch and Flask to identify plant diseases from 
 
 ---
 
-## 📸 Screenshots
-
-| Upload Page | Prediction Result |
-| :---: | :---: |
-| *Your Screenshot Here* | *Your Screenshot Here* |
-| **(Example: `index.html`)** | **(Example: `submit.html`)** |
-
----
-
 ## 💻 Tech Stack
 
 * **Backend**: **Flask** (Python)
