@@ -1,0 +1,23 @@
+SOURCE: Cornell University — Powdery Mildew of Cucurbits
+URL: https://vegpath.plantpath.wisc.edu/resources/cucurbit-powdery-mildew/
+
+Powdery mildew of cucurbits (squash, pumpkins, melons, cucumbers) is caused primarily by Podosphaera xanthii (formerly Sphaerotheca fuliginea) and Erysiphe cichoracearum. It is the most common and widespread disease of cucurbits worldwide.
+
+SYMPTOMS AND IDENTIFICATION:
+White to grayish-white powdery spots appear first on older, lower leaves, usually on the upper surface. Spots expand and merge, eventually covering entire leaves with a thick powdery coating. Under severe infection, the lower leaf surface is also affected. Infected leaves turn yellow, then brown, and die prematurely. Petioles and stems can also be infected. Fruit is rarely directly infected but loses quality due to sunscald from defoliation and poor sugar development.
+
+DISEASE CYCLE:
+The fungus overwinters in warm climates or in greenhouse settings. Conidia (asexual spores) are wind-dispersed over long distances, arriving in temperate regions each growing season. Unlike most fungal diseases, powdery mildew does NOT require free water for infection — high humidity (but not rain) and moderate temperatures (68-80°F) are optimal. Dense plantings, excessive nitrogen, and shaded conditions favor disease development.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Varieties: Plant powdery mildew-resistant varieties when available. Many modern squash, melon, and cucumber cultivars have good resistance. This is the most effective and economical control method.
+2. Cultural Practices: Maintain good air circulation by proper plant spacing. Avoid excessive nitrogen fertilization. Prune or thin foliage to reduce humidity in the canopy. Remove and destroy severely infected plant debris.
+3. Fungicide Applications: Apply protectant fungicides (sulfur, potassium bicarbonate, neem oil) preventatively. Systemic fungicides (myclobutanil, trifloxystrobin) provide excellent curative control. Begin applications at first sign of disease. Rotate fungicide groups to prevent resistance.
+4. Biological Controls: Bacillus subtilis (Serenade) and Bacillus amyloliquefaciens products provide moderate control in organic production systems. Apply preventatively before disease pressure increases.
+5. Timing: Early-season management is critical. Once the disease becomes established and widespread, it is very difficult to achieve adequate control.
+
+---
+SOURCE: University of Massachusetts Extension — Powdery Mildew on Squash
+URL: https://ag.umass.edu/vegetable/fact-sheets/cucurbits-powdery-mildew
+
+In the northeastern United States, powdery mildew typically appears in July and intensifies through August and September. Resistant varieties combined with timely fungicide applications can extend the productive life of cucurbit plantings by 2-3 weeks compared to unmanaged fields.

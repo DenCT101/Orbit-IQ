@@ -1,0 +1,22 @@
+SOURCE: University of Florida IFAS Extension — Bacterial Spot of Tomato
+URL: https://edis.ifas.ufl.edu/publication/PP121
+
+Bacterial spot of tomato is caused by four species of Xanthomonas: X. euvesicatoria, X. vesicatoria, X. perforans, and X. gardneri. X. perforans is currently the most prevalent species on tomato in Florida and the southeastern United States. Bacterial spot is one of the most destructive diseases of tomato in warm, humid regions.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Small, dark, water-soaked, greasy-looking spots on leaves. Spots enlarge slightly and become angular, bounded by small veins. Older lesions turn brown with a thin yellow halo. Spots may coalesce, causing leaf yellowing and premature drop. Defoliation exposes fruit to sunscald.
+
+Fruit Symptoms: Small, raised, rough, brown spots (scab-like) on green fruit. Spots may have a slight halo. Severe fruit infections make tomatoes unmarketable.
+
+TREATMENT AND MANAGEMENT:
+1. Certified Seed/Transplants: Use pathogen-free seed. Hot water seed treatment (122°F for 25 minutes) reduces seed-borne inoculum. Inspect transplants before setting in the field.
+2. Copper + Mancozeb: Apply fixed copper hydroxide plus mancozeb on a 5-7 day schedule during wet weather. Copper-tolerant strains are common, making copper alone insufficient.
+3. Resistant Varieties: Some tomato varieties carry Bs2 or other resistance genes. Check for local race prevalence before selecting varieties.
+4. Cultural Controls: Use drip irrigation. Avoid field work when foliage is wet. Rotate with non-solanaceous crops for 2-3 years. Remove and destroy crop residue.
+5. Bacteriophages: Products containing bacteriophages specific to Xanthomonas are available for organic and conventional programs and can supplement copper-based management.
+
+---
+SOURCE: NC State Extension — Bacterial Diseases of Tomato
+URL: https://content.ces.ncsu.edu/bacterial-diseases-of-tomato
+
+Bacterial spot is particularly challenging because the causal bacteria can survive in association with crop debris and weeds, and copper-tolerant strains have become widespread. An integrated approach using clean transplants, crop rotation, and copper + mancozeb programs remains the standard management strategy.

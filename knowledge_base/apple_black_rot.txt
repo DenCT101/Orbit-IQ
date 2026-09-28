@@ -1,0 +1,26 @@
+SOURCE: Penn State Extension — Apple Black Rot
+URL: https://extension.psu.edu/apple-diseases-black-rot
+
+Black rot is caused by the fungus Botryosphaeria obtusa (also known as Diplodia seriata). It is one of the most important summer diseases of apple in the eastern United States. The pathogen causes three distinct forms of disease: fruit rot, frogeye leaf spot, and limb cankers.
+
+SYMPTOMS AND IDENTIFICATION:
+Fruit Rot: Black rot of fruit begins as a small brown spot that gradually enlarges in a series of concentric rings. The rotted area is firm and leathery, eventually turning the entire fruit black and mummified. Infected fruit may remain on the tree as "mummies" through winter.
+
+Frogeye Leaf Spot: Leaf infections appear as small purple spots that enlarge to 1/8 to 1/4 inch in diameter. As lesions mature, the centers turn tan to brown while margins remain purple, creating a characteristic "frogeye" appearance. Severely infected leaves may yellow and drop.
+
+Limb Cankers: The fungus attacks weakened or dead wood, forming sunken, reddish-brown cankers on branches and trunks. These cankers serve as the primary source of inoculum and can girdle small branches, causing dieback.
+
+DISEASE CYCLE:
+Botryosphaeria obtusa overwinters in mummified fruit, cankers, and dead wood in the tree canopy. Spores (conidia and ascospores) are produced during warm, wet weather from spring through fall. The fungus enters fruit through wounds, lenticels, or insect damage. Fruit are susceptible from petal fall through harvest, with peak susceptibility during warm summer months.
+
+TREATMENT AND MANAGEMENT:
+1. Sanitation: Remove all mummified fruit from trees and the orchard floor. Prune out dead wood and cankers during the dormant season. Destroy prunings by burning or chipping.
+2. Cultural Practices: Maintain tree vigor through proper fertilization and irrigation. Avoid wounding trees during cultivation. Control insects that create entry wounds for the fungus.
+3. Fungicide Programs: Captan and mancozeb applied during the growing season provide good control. Summer applications from petal fall through second cover are most critical. Strobilurin fungicides (trifloxystrobin) and SDHI fungicides also provide effective control.
+4. Fire Blight Management: Since fire blight cankers can serve as entry points for black rot, managing fire blight also helps reduce black rot incidence.
+
+---
+SOURCE: University of Kentucky Cooperative Extension — Black Rot of Apple
+URL: https://plantpathology.ca.uky.edu/files/ppfs-fr-t-01.pdf
+
+Black rot is particularly problematic in abandoned or poorly managed orchards where dead wood and mummified fruit accumulate. The disease is often more severe in warm, humid climates. Proper orchard sanitation is the single most important management practice, as it directly reduces the inoculum available for new infections. Growers should pay special attention to removing fire blight strikes and other dead wood, as these provide ideal substrate for the black rot fungus.

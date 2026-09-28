@@ -1,0 +1,28 @@
+SOURCE: Cornell University — Late Blight of Potato and Tomato
+URL: https://vegpath.plantpath.wisc.edu/resources/potato-late-blight/
+
+Late blight is caused by the oomycete Phytophthora infestans. This disease is historically famous for causing the Irish Potato Famine (1845-1852). It remains the most destructive disease of potato and tomato worldwide, capable of destroying entire crops within days under favorable conditions.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Water-soaked, pale green to dark green spots appear on leaf tips and edges, rapidly expanding into large, brown-black lesions. Under humid conditions, a white, downy growth of sporangia appears on the lower leaf surface at the margin of lesions. This sporulation distinguishes late blight from other leaf blights. Affected tissue dies rapidly, and a characteristic musty odor may be detected.
+
+Stem Symptoms: Dark brown to black, water-soaked lesions appear on stems and petioles. Stem infections can girdle and kill branches or the entire plant.
+
+Tuber Symptoms: Irregular, slightly depressed areas with brown to purple discoloration appear on the tuber surface. Cutting through infected tubers reveals a rusty-brown, granular rot extending from the surface inward. Secondary bacteria (Pectobacterium spp.) commonly invade, causing soft rot and foul odors in storage.
+
+DISEASE CYCLE:
+Phytophthora infestans overwinters in infected tubers (seed pieces, volunteer plants, cull piles). Under cool (50-70°F), wet conditions with high humidity (>90%), sporangia are produced on infected tissue and dispersed by wind over long distances (up to 30+ miles). Sporangia can directly infect or produce motile zoospores that swim in water films on leaf surfaces. The entire infection cycle (infection to sporulation) can be as short as 3-5 days, allowing explosive epidemic development.
+
+TREATMENT AND MANAGEMENT:
+1. Certified Seed: Plant only certified, disease-free seed potatoes. Inspect seed carefully and reject lots with any signs of late blight.
+2. Eliminate Inoculum Sources: Destroy volunteer potatoes, cull piles, and abandoned potato plots. These are the primary sources of initial inoculum each season.
+3. Fungicide Programs: Apply protectant fungicides (chlorothalonil, mancozeb) preventatively on a 5-7 day schedule during periods of favorable weather. Systemic fungicides (metalaxyl/mefenoxam, fluopicolide, cymoxanil) provide excellent control but must be rotated to prevent resistance. Monitor for metalaxyl-resistant strains.
+4. Late Blight Forecasting: Use disease prediction models (BLITECAST, BlightPro) based on temperature and humidity to time fungicide applications. Begin sprays when models indicate favorable conditions for disease development.
+5. Resistant Varieties: Plant varieties with resistance to late blight where available. 'Defender', 'Elba', and 'Jacqueline Lee' have good resistance. Resistance should complement, not replace, fungicide programs.
+6. Harvest Management: Kill vines 2-3 weeks before harvest to allow skin set and prevent tuber infection during harvest. Avoid harvesting in wet conditions. Dry tubers before storage.
+
+---
+SOURCE: USDA-ARS — Late Blight Disease Management
+URL: https://www.ars.usda.gov/northeast-area/ithaca-ny/robert-w-holley-center-for-agriculture-health/plant-pathology-and-plant-microbe-biology-unit/
+
+New strains of P. infestans continue to emerge, some with resistance to metalaxyl (the most effective systemic fungicide). The US-23 clonal lineage is currently dominant in the United States. Genotype tracking through USAblight.org helps growers and researchers monitor strain distribution and adapt management recommendations.

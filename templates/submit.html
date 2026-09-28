@@ -82,6 +82,69 @@
       {% endif %}
 
     </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         RAG AI Advisory Section
+         ═══════════════════════════════════════════════════════════════ -->
+    {% if rag_advice %}
+    <div class="row mt-4">
+      <div class="col mx-auto">
+        <div class="p-5 shadow rounded-lg" style="height: auto; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 50%, #a5d6a7 100%); border-left: 6px solid #2e7d32;">
+          
+          <!-- Header with AI badge -->
+          <div style="display: flex; align-items: center; margin-bottom: 15px;">
+            <span style="background: linear-gradient(135deg, #1b5e20, #388e3c); color: white; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; letter-spacing: 0.5px; margin-right: 10px;">
+              🤖 AI-Powered
+            </span>
+            <h5 style="margin: 0; color: #1b5e20;"><b>
+              {% if pred==3 or pred==5 or pred==7 or pred==11 or pred==15 or pred==18 or pred==20 or pred==23 or
+              pred==24 or pred==25 or pred==28 or pred==38 %}
+              🌱 AI Care Advisory
+              {% else %}
+              🔬 AI Diagnostic Advisory
+              {% endif %}
+            </b></h5>
+          </div>
+
+          <!-- Advisory content -->
+          <div style="background: rgba(255,255,255,0.85); padding: 20px; border-radius: 12px; font-size: 15px; line-height: 1.7; color: #2c3e2c;">
+            {{ rag_advice | replace('\n', '<br>') | safe }}
+          </div>
+
+          <!-- Sources section -->
+          {% if rag_sources %}
+          <div style="margin-top: 16px; padding: 14px 18px; background: rgba(255,255,255,0.6); border-radius: 10px; border: 1px solid rgba(46,125,50,0.2);">
+            <h6 style="color: #1b5e20; margin-bottom: 10px; font-weight: 600;">
+              📚 Sources
+            </h6>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              {% for src in rag_sources %}
+              <li style="padding: 4px 0; font-size: 13px; color: #555;">
+                <span style="color: #2e7d32;">▸</span>
+                <strong>{{ src.source }}</strong>
+                {% if src.url %}
+                  <br>
+                  <a href="{{ src.url }}" target="_blank" style="color: #1565c0; font-size: 12px; margin-left: 16px; word-break: break-all;">
+                    {{ src.url }}
+                  </a>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+          <!-- Disclaimer -->
+          <p style="margin-top: 12px; font-size: 11px; color: #666; font-style: italic; text-align: center;">
+            ⚠️ This advisory is AI-generated from agricultural extension sources using RAG (Retrieval-Augmented Generation). 
+            Always consult a local agricultural expert for critical decisions.
+          </p>
+
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
   </div>
 </div>
 {% endblock body %}

@@ -1,0 +1,23 @@
+SOURCE: Purdue University Extension — Gray Leaf Spot of Corn
+URL: https://www.extension.purdue.edu/extmedia/BP/BP-56-W.pdf
+
+Gray leaf spot (GLS) of corn is caused by the fungus Cercospora zeae-maydis. It has become one of the most significant yield-limiting diseases of corn worldwide, particularly in the eastern United States, sub-Saharan Africa, and South America.
+
+SYMPTOMS AND IDENTIFICATION:
+Initial symptoms appear as small, dark, water-soaked spots on lower leaves. These spots elongate into characteristic rectangular lesions bounded by leaf veins, measuring 1-3 inches long and 1/8 to 1/4 inch wide. Mature lesions are tan to gray with distinct parallel edges. Under favorable conditions, lesions coalesce, causing extensive blighting of leaf tissue. Severe infections can destroy 50-100% of leaf area, leading to premature plant death and stalk lodging.
+
+DISEASE CYCLE:
+Cercospora zeae-maydis overwinters in infected corn residue on the soil surface. Spores (conidia) are produced on residue during warm, humid conditions in spring and summer. Wind and rain splash disperse spores to lower leaves of the new crop. The disease progresses upward through the canopy over the season. Extended periods of high humidity (>90%), warm temperatures (75-85°F), and heavy dew favor disease development. Minimum tillage and continuous corn rotations increase disease risk by maintaining surface residue.
+
+TREATMENT AND MANAGEMENT:
+1. Hybrid Selection: Plant GLS-resistant hybrids. Resistance is quantitative (controlled by many genes), so no hybrid is completely immune. Check hybrid ratings from seed companies and university trials.
+2. Crop Rotation: Rotate with non-host crops (soybeans, small grains) to reduce residue-borne inoculum. At least one year out of corn significantly reduces risk.
+3. Tillage: Moldboard plowing or chisel plowing buries infected residue, reducing spore production. Balance disease management benefits against soil conservation goals.
+4. Fungicide Applications: Foliar fungicides (azoxystrobin, pyraclostrobin, propiconazole) applied at VT-R1 (tasseling to silking) can protect yield in susceptible hybrids under high disease pressure. Economic response to fungicides is most likely when using susceptible hybrids, planting after corn, and under favorable weather conditions.
+5. Planting Date: Earlier planting can help the crop mature before late-season disease buildup reaches critical levels.
+
+---
+SOURCE: University of Illinois Extension — Cercospora Leaf Spot and Gray Leaf Spot
+URL: https://extension.illinois.edu/blogs/ill-corn-disease-management
+
+Yield losses from gray leaf spot can reach 40-60 bushels per acre in severe epidemics. The disease is most damaging when it infects the ear leaf and above before or during grain fill. Protecting green leaf area during the critical grain fill period is essential for maximizing yield potential.

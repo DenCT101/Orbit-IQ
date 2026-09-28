@@ -1,0 +1,25 @@
+SOURCE: University of Minnesota Extension — Cedar Apple Rust
+URL: https://extension.umn.edu/plant-diseases/cedar-apple-rust
+
+Cedar apple rust is caused by the fungus Gymnosporangium juniperi-virginianae. This disease requires two hosts to complete its life cycle: apple (or crabapple) and Eastern red cedar (Juniperus virginiana) or related junipers. It is widespread across eastern North America wherever both hosts grow in proximity.
+
+SYMPTOMS AND IDENTIFICATION:
+On Apple: Bright yellow-orange spots appear on the upper surface of leaves in late spring. As the season progresses, spots enlarge and develop a reddish border. By midsummer, tube-like structures (aecia) form on the lower leaf surface, releasing spores that infect nearby cedars. Fruit infections appear as similar orange spots and can cause misshapen or dropped fruit.
+
+On Cedar/Juniper: Brown, golf ball-sized galls form on twigs. In spring during warm, rainy weather, the galls produce gelatinous orange-brown "horns" (telial horns) up to 2 inches long. These horns release spores that travel by wind up to 2-3 miles to infect apple trees.
+
+DISEASE CYCLE:
+The fungus alternates between apple and cedar hosts, requiring approximately 2 years to complete its life cycle. Spores from cedar galls infect apple leaves in spring. By late summer, spores produced on apple leaves are carried by wind to infect cedar trees. Galls develop on cedar over 18 months before becoming mature and producing telial horns.
+
+TREATMENT AND MANAGEMENT:
+1. Host Separation: Remove nearby cedar and juniper trees within 2-3 miles of apple orchards if feasible. This is often impractical but effective where possible.
+2. Resistant Varieties: Plant rust-resistant apple varieties such as 'Liberty', 'Freedom', 'Redfree', and 'Enterprise'. Many modern disease-resistant cultivars have excellent rust resistance.
+3. Fungicide Applications: Apply myclobutanil, propiconazole, or mancozeb at pink bud stage, bloom, petal fall, and first cover spray. Timing is critical—sprays must be applied before and during infection periods. Fungicides applied after symptoms appear cannot cure existing infections.
+4. Cedar Gall Removal: Prune and destroy galls on cedar trees before telial horns form in spring. This reduces local inoculum but is labor-intensive.
+5. Monitor Weather: Infections require 4-6 hours of continuous leaf wetness during warm spring rains. Use disease forecasting tools to time fungicide applications.
+
+---
+SOURCE: Missouri Botanical Garden — Cedar-Apple Rust
+URL: https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/diseases/rusts/cedar-apple-rust
+
+For home gardeners, the most effective long-term strategy is planting resistant varieties. While cedar apple rust rarely kills trees, repeated severe infections weaken trees and reduce fruit quality and yield. Defoliation from heavy rust infections can predispose trees to winter injury and reduce return bloom the following year.

@@ -1,0 +1,22 @@
+SOURCE: Washington State University Extension — Cherry Powdery Mildew
+URL: https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/
+
+Cherry powdery mildew is caused by the fungus Podosphaera clandestina. It is one of the most common and economically important diseases of sweet cherry in the Pacific Northwest and other cherry-growing regions worldwide.
+
+SYMPTOMS AND IDENTIFICATION:
+Infected leaves develop white to grayish powdery fungal growth on both upper and lower surfaces. Young leaves are most susceptible and may curl, pucker, or become distorted. Severely infected leaves may turn yellow and drop prematurely. On fruit, powdery mildew appears as white patches that can cause surface russeting, reducing market quality. Immature fruit infections can cause cracking and deformity.
+
+DISEASE CYCLE:
+The fungus overwinters as chasmothecia (fruiting bodies) in bark crevices and fallen leaves. In spring, ascospores are released and carried by wind to young developing leaves. Unlike most fungal diseases, powdery mildew does NOT require leaf wetness for infection. Instead, moderate temperatures (65-80°F), high humidity, and reduced light favor disease development. The fungus produces abundant conidia (asexual spores) throughout the growing season for secondary spread.
+
+TREATMENT AND MANAGEMENT:
+1. Cultural Practices: Maintain open canopy through proper pruning to increase air circulation and reduce humidity. Remove and destroy fallen leaves and prunings. Avoid excessive nitrogen fertilization, which promotes succulent growth susceptible to infection.
+2. Fungicide Applications: Apply sulfur or potassium bicarbonate as protectant treatments. Sterol-inhibiting (SI) fungicides (myclobutanil, triflumizole) are effective both preventatively and curatively. Strobilurin fungicides (trifloxystrobin, azoxystrobin) provide excellent preventive control. Rotate fungicide classes to prevent resistance development.
+3. Biological Controls: Bacillus subtilis-based biofungicides (e.g., Serenade) provide moderate control and are useful in organic programs. Apply preventatively before disease pressure increases.
+4. Monitoring: Scout regularly beginning at bloom. Focus on interior canopy where humidity is highest. Treat at first sign of disease for best results.
+
+---
+SOURCE: Oregon State University — Managing Powdery Mildew in Sweet Cherry
+URL: https://catalog.extension.oregonstate.edu/em9105
+
+Resistance management is critical in powdery mildew programs. The fungus can rapidly develop resistance to single-site fungicides, particularly strobilurins and SI fungicides. Growers should rotate between at least 2-3 different fungicide groups per season and include multi-site protectants like sulfur in their programs.

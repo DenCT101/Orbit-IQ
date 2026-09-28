@@ -1,0 +1,27 @@
+SOURCE: Ohio State University Extension — Black Rot of Grape
+URL: https://ohioline.osu.edu/factsheet/plpath-fru-24
+
+Black rot of grape is caused by the fungus Guignardia bidwellii (anamorph: Phyllosticta ampelicida). It is the most economically important disease of grapes in the eastern United States and can destroy an entire crop if not managed properly.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Small, reddish-brown circular spots (1/4 inch) appear on young leaves. Spots enlarge and develop tan centers with dark brown borders. Tiny black pycnidia (spore-producing structures) form within the lesion centers in concentric rings.
+
+Fruit Symptoms: Berries first show a small whitish spot that rapidly enlarges. Infected berries turn brown, then black, becoming hard, wrinkled "mummies" within a few days. Mummies are covered with black pycnidia and remain attached to the cluster. All berries in a cluster can be destroyed within 1-2 weeks of initial infection.
+
+Shoot and Tendril Symptoms: Dark, elongated, sunken lesions may form on young shoots, petioles, and tendrils.
+
+DISEASE CYCLE:
+The fungus overwinters in mummified berries on the vine or on the ground. Ascospores and conidia are released during spring rains and infect young leaves and shoots. Fruit becomes susceptible from bloom through 3-4 weeks after bloom, with peak susceptibility at bloom. Warm (60-90°F), wet conditions with 6+ hours of leaf wetness favor infection. The incubation period varies from 8-25 days depending on temperature.
+
+TREATMENT AND MANAGEMENT:
+1. Sanitation: Remove and destroy all mummified fruit from vines during dormant pruning. This is the single most important management practice. Remove mummies from the vineyard floor as well.
+2. Canopy Management: Open canopy through proper pruning, shoot positioning, and leaf removal to improve air circulation and spray penetration. Good canopy management also promotes faster drying of foliage.
+3. Fungicide Program: Apply protectant fungicides (mancozeb, captan, ziram) from early shoot growth through 4-5 weeks after bloom. Systemic fungicides (myclobutanil, tebuconazole, azoxystrobin) provide additional protection during high-risk periods. The most critical spray window is from immediate pre-bloom through 3 weeks post-bloom.
+4. Resistant Varieties: Some grape varieties show moderate resistance. Muscadine grapes are generally resistant. French-American hybrids vary in susceptibility.
+5. Integrated Approach: Combine sanitation, canopy management, and targeted fungicide applications for effective and sustainable black rot management.
+
+---
+SOURCE: Virginia Cooperative Extension — Black Rot of Grape
+URL: https://www.pubs.ext.vt.edu/450/450-103/450-103.html
+
+In the mid-Atlantic and southeastern United States, black rot is the most destructive grape disease. Without management, losses can reach 80-100% of the crop. Even small numbers of mummified berries left in the vineyard can produce enough inoculum to start severe epidemics.

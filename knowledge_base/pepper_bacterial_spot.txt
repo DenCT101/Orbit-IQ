@@ -1,0 +1,27 @@
+SOURCE: University of Florida IFAS Extension — Bacterial Spot of Pepper
+URL: https://edis.ifas.ufl.edu/publication/PP121
+
+Bacterial spot of pepper (and tomato) is caused by several species of Xanthomonas: X. euvesicatoria, X. vesicatoria, X. perforans, and X. gardneri. It is one of the most destructive diseases of pepper in warm, humid growing regions worldwide.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Small (1-3 mm), dark, water-soaked spots appear on leaves. Spots become slightly raised with a rough texture on the lower leaf surface. As lesions age, they turn brown and papery, often with a yellow halo. Severely affected leaves yellow and drop. Defoliation exposes fruit to sunscald.
+
+Fruit Symptoms: Small, raised, scab-like lesions appear on fruit. Lesions are initially dark green and water-soaked, becoming brown, raised, and rough-textured as they age. Severely spotted fruit are unmarketable. Fruit lesions provide entry for secondary soft rot bacteria.
+
+Stem Symptoms: Elongated, dark, slightly raised lesions may form on stems and petioles.
+
+DISEASE CYCLE:
+The bacteria can be seed-borne and survive on infected crop debris in the soil for 1-2 years. Contaminated seed is the most common means of long-distance dispersal. In the field, bacteria spread by wind-driven rain, overhead irrigation, and human contact with wet plants. Warm temperatures (75-86°F) and frequent rain or overhead irrigation create ideal conditions for epidemics. The bacterium enters through stomata and wounds.
+
+TREATMENT AND MANAGEMENT:
+1. Clean Seed and Transplants: Use certified disease-free seed. Hot water treat seed (125°F for 25 minutes) to reduce seed-borne bacteria. Inspect transplants carefully before planting.
+2. Copper Applications: Apply fixed copper plus mancozeb on a 5-7 day schedule during wet weather. Copper alone has limited efficacy due to widespread copper-tolerant strains. The addition of mancozeb improves control significantly.
+3. Resistant Varieties: Plant varieties with resistance genes (Bs1, Bs2, Bs3). Resistance is race-specific, so know which races are prevalent in your area. Some commercial bell pepper varieties have partial resistance.
+4. Cultural Practices: Use drip irrigation instead of overhead sprinklers. Avoid working in fields when foliage is wet. Practice 2-3 year crop rotation away from pepper and tomato. Remove and destroy crop debris after harvest.
+5. Biological Controls: Bacillus-based products and bacteriophage applications have shown some efficacy as supplemental treatments in research trials.
+
+---
+SOURCE: Vegetable Production Handbook — Bacterial Spot Management
+URL: https://edis.ifas.ufl.edu/entity/topic/VPH
+
+Bacterial spot is particularly challenging because copper-tolerant strains are now widespread. Integrated management combining resistant varieties, sanitation, and properly timed copper + mancozeb applications provides the most reliable control.

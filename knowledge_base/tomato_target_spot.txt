@@ -1,0 +1,26 @@
+SOURCE: University of Florida IFAS Extension — Target Spot of Tomato
+URL: https://edis.ifas.ufl.edu/publication/PP104
+
+Target spot of tomato is caused by the fungus Corynespora cassiicola. It has become an increasingly important disease of tomato in Florida, the southeastern United States, tropical regions, and greenhouse production worldwide.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Small, dark brown, water-soaked spots appear on lower leaves. Spots enlarge (up to 1/2 inch or more) and develop characteristic concentric rings (target-like pattern), similar to early blight. However, target spot lesions are generally smaller and lighter in color than early blight lesions, and tend to have a more distinct target pattern. Severe infections cause rapid defoliation from the bottom of the plant upward.
+
+Stem Symptoms: Dark, elongated lesions may develop on stems and petioles.
+
+Fruit Symptoms: Small, sunken, dark brown spots occasionally appear on fruit near the calyx. These are less common than leaf symptoms.
+
+DISEASE CYCLE:
+Corynespora cassiicola has an extremely wide host range, infecting hundreds of plant species including soybean, cotton, cucumber, and many ornamentals. The fungus survives on crop debris, weeds, and other host plants. Conidia are produced on infected tissue and dispersed by wind and rain splash. Warm temperatures (68-86°F) and prolonged periods of high humidity or leaf wetness favor infection and disease development.
+
+TREATMENT AND MANAGEMENT:
+1. Cultural Practices: Improve air circulation through proper staking, pruning, and plant spacing. Remove lower leaves that show infection. Mulch to prevent soil splash. Practice crop rotation, though the wide host range limits effectiveness.
+2. Fungicide Applications: Apply protectant fungicides (chlorothalonil, mancozeb) on a 7-10 day schedule during favorable conditions. Systemic fungicides (azoxystrobin, boscalid, fluopyram, difenoconazole) provide better control. Resistance to strobilurin (QoI) fungicides has been documented — rotate fungicide groups and include multi-site protectants.
+3. Resistant Varieties: No commercial tomato varieties with strong target spot resistance are currently available. Tolerance varies among varieties.
+4. Sanitation: Remove and destroy crop debris after harvest. Control weed hosts in and around production areas.
+
+---
+SOURCE: Vegetable Production Handbook for Florida — Target Spot
+URL: https://edis.ifas.ufl.edu/entity/topic/VPH
+
+Target spot has become significantly more prevalent and damaging in Florida and tropical tomato production in recent decades. The development of fungicide-resistant strains of Corynespora cassiicola has complicated management. Programs emphasizing fungicide rotation and inclusion of multiple modes of action are essential.

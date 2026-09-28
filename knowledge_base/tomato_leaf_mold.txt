@@ -1,0 +1,27 @@
+SOURCE: University of Massachusetts Extension — Tomato Leaf Mold
+URL: https://ag.umass.edu/greenhouse-floriculture/fact-sheets/tomato-leaf-mold
+
+Tomato leaf mold is caused by the fungus Passalora fulva (syn. Cladosporium fulvum, Fulvia fulva). This disease is particularly problematic in greenhouses and high tunnels where humidity is high, but also occurs in field-grown tomatoes in humid regions.
+
+SYMPTOMS AND IDENTIFICATION:
+Upper Leaf Surface: Diffuse, pale green to yellowish patches appear on the upper surface of older leaves. These patches correspond to fungal growth on the lower surface.
+
+Lower Leaf Surface: Olive-green to grayish-brown, velvety mold growth develops on the corresponding lower surface. This is the diagnostic feature of the disease. Under severe infection, the mold can also appear on the upper surface.
+
+Disease Progression: Leaves curl upward, wilt, and die as the infection spreads. Defoliation progresses from the bottom of the plant upward. In severe cases, flowers and fruit can also be infected, reducing fruit set and quality.
+
+DISEASE CYCLE:
+Passalora fulva survives on infected plant debris and in the soil for at least one year. Spores (conidia) are produced abundantly on the lower leaf surface and dispersed by air currents, water splash, and human contact. High humidity (>85%) and moderate temperatures (72-75°F) are ideal for infection and sporulation. Interestingly, free water on leaves is NOT required for infection — high humidity alone is sufficient. The disease thrives in greenhouse environments.
+
+TREATMENT AND MANAGEMENT:
+1. Ventilation: Improve air circulation through proper greenhouse ventilation, fan placement, and plant spacing. Reduce humidity below 85% if possible. Avoid condensation on leaf surfaces.
+2. Resistant Varieties: Plant varieties carrying the Cf resistance genes. Many greenhouse tomato varieties have leaf mold resistance. However, new races of the pathogen can overcome resistance genes.
+3. Cultural Practices: Remove and destroy infected leaves promptly. Avoid overhead watering. Sterilize greenhouse structures and equipment between crops. Clean and sanitize stakes and clips.
+4. Fungicide Applications: Apply chlorothalonil or copper-based products preventatively. In greenhouses, biological control agents (Bacillus subtilis) may provide supplemental control.
+5. Temperature Management: Night temperatures above 65°F combined with high humidity promote disease. Ventilating to reduce nighttime humidity is particularly important.
+
+---
+SOURCE: Ontario Ministry of Agriculture — Leaf Mould of Greenhouse Tomatoes
+URL: https://www.ontario.ca/page/leaf-mould-greenhouse-tomatoes
+
+Leaf mold races have evolved rapidly, overcoming resistance genes in commercial varieties. Growers should monitor for new symptoms in previously resistant varieties and work with seed companies to obtain varieties with the most current resistance gene packages.

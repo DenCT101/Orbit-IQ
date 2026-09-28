@@ -1,0 +1,22 @@
+SOURCE: Iowa State University Extension — Common Rust of Corn
+URL: https://crops.extension.iastate.edu/cropnews/2020/07/common-rust-corn
+
+Common rust of corn is caused by the fungus Puccinia sorghi. It is one of the most frequently observed foliar diseases of corn but rarely causes significant yield loss in the primary U.S. Corn Belt due to the widespread use of resistant hybrids.
+
+SYMPTOMS AND IDENTIFICATION:
+Rust pustules (uredia) appear on both leaf surfaces as small (1/8 inch long), oval to elongate, cinnamon-brown to dark reddish-brown raised bumps. Pustules erupt through the leaf epidermis, releasing masses of powdery, brick-red to brown spores. Both surfaces of the leaf are affected. As the plant matures, pustules may turn dark brown to black as teliospores form. Severe infections cause leaves to yellow, wither, and die prematurely. Pustules can also form on husks and leaf sheaths.
+
+DISEASE CYCLE:
+Puccinia sorghi cannot overwinter in northern corn-growing regions. Urediniospores are carried northward on wind currents from subtropical regions (southern Texas, Mexico, Central America) each growing season. The fungus requires alternate hosts (Oxalis species) for sexual reproduction, but this stage is rarely important in most corn-growing areas. Optimal conditions for infection include cool to moderate temperatures (60-77°F) and high humidity with dew or free moisture on leaves for 6+ hours. Disease severity depends on spore arrival timing, weather conditions, and hybrid susceptibility.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Hybrids: Most commercial corn hybrids carry effective resistance to common rust. Use hybrids with good rust resistance ratings, especially in areas with a history of severe rust.
+2. Fungicides: Foliar fungicides are rarely economically justified for common rust in field corn. In sweet corn or seed production, fungicide applications may be warranted. Strobilurin and triazole fungicides provide effective control when needed.
+3. Monitoring: Scout fields regularly, especially during cool, humid periods. Distinguish common rust from southern rust (Puccinia polysora), which produces lighter-colored pustules primarily on upper leaf surfaces and is more damaging.
+4. Planting Date: Adjusting planting date to avoid peak spore arrival can reduce infection risk in some regions.
+
+---
+SOURCE: University of Nebraska-Lincoln — Corn Rust Diseases
+URL: https://cropwatch.unl.edu/corn-rust-diseases
+
+In most years, common rust arrives too late to cause significant yield loss in the Corn Belt. However, early-season outbreaks during cool, wet weather can be more damaging. Sweet corn varieties are generally more susceptible than field corn hybrids and may require fungicide protection.

@@ -1,0 +1,23 @@
+SOURCE: Cornell University — Northern Corn Leaf Blight
+URL: https://fieldcrops.cals.cornell.edu/corn/diseases-corn/northern-corn-leaf-blight/
+
+Northern corn leaf blight (NCLB) is caused by the fungus Exserohilum turcicum (syn. Setosphaeria turcica). It is a significant foliar disease of corn that can cause substantial yield losses under favorable conditions, particularly in the northeastern and north-central United States.
+
+SYMPTOMS AND IDENTIFICATION:
+NCLB produces large (1-6 inches long), cigar-shaped, gray-green to tan lesions on corn leaves. Lesions first appear on lower leaves and progress upward through the canopy. Under humid conditions, dark gray to black areas of sporulation may be visible within lesions. Multiple lesions can merge, causing large areas of dead leaf tissue. Severe infections can result in premature death of leaves, reduced photosynthesis during grain fill, and increased stalk rot susceptibility.
+
+DISEASE CYCLE:
+The fungus overwinters as mycelium and conidia on infected corn residue on the soil surface. Spores are produced during warm (65-80°F), humid conditions and dispersed by wind and rain splash. Moderate temperatures with prolonged dew periods (6-18 hours) favor infection. The disease cycle repeats every 7-14 days under favorable conditions, leading to rapid disease buildup. Continuous corn and reduced tillage increase disease pressure.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Hybrids: Resistance to NCLB includes both qualitative (Ht genes: Ht1, Ht2, Ht3, HtN) and quantitative (partial) resistance. Qualitative resistance produces chlorotic or reduced-size lesions. Quantitative resistance reduces the rate of disease progression. Use hybrids with multiple resistance genes for durable protection.
+2. Crop Rotation: Rotate corn with non-host crops to reduce residue-borne inoculum. A single year of rotation significantly reduces initial inoculum levels.
+3. Tillage: Burying infected residue through tillage reduces spore production. Consider conservation tillage practices that balance disease management with soil health goals.
+4. Fungicide Applications: Apply foliar fungicides at VT-R1 when disease is present on the third leaf below the ear or higher on susceptible hybrids. Fungicides containing strobilurins, triazoles, or combinations provide effective control. Economic returns from fungicide application depend on hybrid susceptibility, disease severity, and expected yield.
+5. Planting Date and Population: Earlier planting allows the crop to advance further before disease pressure builds. Optimal plant populations promote better air circulation through the canopy.
+
+---
+SOURCE: Purdue University — Northern Corn Leaf Blight
+URL: https://www.extension.purdue.edu/extmedia/BP/BP-84-W.pdf
+
+Yield losses from NCLB can exceed 30-50% when the disease reaches the ear leaf before or during early grain fill. Losses are greatest in hybrids lacking effective resistance genes, in continuous corn fields with minimal tillage, and under weather conditions favoring disease spread.

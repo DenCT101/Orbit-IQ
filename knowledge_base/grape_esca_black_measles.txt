@@ -1,0 +1,28 @@
+SOURCE: University of California Agriculture and Natural Resources — Grapevine Measles (Esca)
+URL: https://ipm.ucanr.edu/agriculture/grape/esca-measles/
+
+Esca, also known as black measles or grapevine measles, is a complex trunk disease caused by multiple fungal pathogens, primarily Phaeomoniella chlamydospora, Phaeoacremonium minimum, and various Botryosphaeriaceae species. It is a chronic, destructive disease affecting grapevines worldwide, particularly in mature vineyards.
+
+SYMPTOMS AND IDENTIFICATION:
+Foliar Symptoms: Characteristic tiger-stripe pattern on leaves — interveinal chlorosis and necrosis creating alternating bands of green and brown/red tissue. In red varieties, affected tissue turns dark red; in white varieties, it turns yellow-brown. Symptoms may appear gradually over weeks or the vine may show acute "apoplexy" where entire cordons or the whole vine wilts suddenly in hot weather.
+
+Fruit Symptoms: Dark purple-brown spots appear on berries, giving the "measles" name. Spotted berries crack and become susceptible to bunch rot organisms. Fruit quality and yield are significantly reduced.
+
+Internal Wood Symptoms: Cross-sections of affected trunks and cordons show dark streaking in the vascular tissue and white, spongy decay (white rot) in the heartwood. These internal symptoms may be present years before foliar symptoms appear.
+
+DISEASE CYCLE:
+The pathogens enter through pruning wounds, which remain susceptible to infection for several weeks after cutting. Spores are dispersed by rain splash during the dormant season and early spring. Once established in the wood, the fungi slowly colonize vascular tissue, producing toxins that cause foliar symptoms. The disease is chronic and progressive — symptoms may appear intermittently from year to year but worsen over time.
+
+TREATMENT AND MANAGEMENT:
+1. Pruning Wound Protection: Apply pruning wound sealants or biocontrol agents (Trichoderma spp.) immediately after pruning. Delay pruning until late in the dormant season when wounds heal faster and spore loads are lower.
+2. Trunk Renewal: In severely affected vines, retrain new trunks from suckers arising below the graft union. This removes the diseased wood and can extend vine life by decades.
+3. Sanitation: Remove and destroy dead vines and pruning debris from the vineyard. Disinfect pruning tools between vines with a 10% bleach solution or 70% alcohol.
+4. Remedial Surgery: Cut out diseased wood below the visible margin of discoloration. Apply wound sealant after surgery. This approach has shown 80-90% remission rates in California trials.
+5. No Effective Fungicides: Currently, no systemic fungicides reliably control established esca infections. Research continues on biocontrol agents and novel chemical treatments.
+6. Young Vine Protection: Use clean planting material from certified nurseries. Protect graft unions and pruning wounds on young vines to prevent early infections.
+
+---
+SOURCE: UC Davis Department of Viticulture and Enology — Grapevine Trunk Diseases
+URL: https://ucanr.edu/sites/grapevine-trunk-diseases/
+
+Grapevine trunk diseases including esca are estimated to cause over $260 million in annual losses in California alone. The diseases have become more prevalent since the withdrawal of sodium arsenite, the only effective chemical treatment, due to environmental concerns. Management now relies on preventive practices and cultural controls.

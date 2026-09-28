@@ -1,0 +1,27 @@
+SOURCE: University of Florida IFAS Extension — Tomato Yellow Leaf Curl Virus
+URL: https://edis.ifas.ufl.edu/publication/PP132
+
+Tomato yellow leaf curl virus (TYLCV) is a DNA virus in the genus Begomovirus, family Geminiviridae. It is transmitted by the sweetpotato whitefly (Bemisia tabaci biotype B). TYLCV is one of the most devastating viral diseases of tomato worldwide, particularly in tropical and subtropical regions.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Young leaves are the most obviously affected. They show severe upward curling, cupping, and reduced size. Leaves become thick, leathery, and crinkled with pronounced interveinal yellowing (chlorosis). The characteristic upward curling and yellowing of young terminal growth is the most recognizable symptom.
+
+Plant Symptoms: Infected plants are severely stunted with shortened internodes, giving a compact, bushy appearance. Flower drop is common, resulting in little to no fruit set. Plants infected at an early growth stage may never produce marketable fruit. Plants infected later may produce some fruit, but yield is significantly reduced.
+
+Fruit Symptoms: Fruit on infected plants are small and may ripen unevenly. Overall fruit quality and yield are dramatically reduced.
+
+DISEASE CYCLE:
+The sweetpotato whitefly acquires TYLCV after feeding on infected plants for as little as 15-30 minutes. Once acquired, the virus circulates within the insect and can be transmitted for the remainder of the whitefly's life (persistent, circulative transmission). The virus is NOT transmitted through seed. Whitefly populations build up on a wide range of crop and weed hosts before migrating to tomato fields.
+
+TREATMENT AND MANAGEMENT:
+1. Whitefly Management: Aggressive whitefly control is the primary management strategy. Use systemic insecticides (imidacloprid, dinotefuran, cyantraniliprole) at transplanting. Follow with foliar applications of spiromesifen, pyriproxyfen, or other effective products. Rotate insecticide classes to manage resistance.
+2. Resistant Varieties: Several TYLCV-resistant tomato varieties are available carrying the Ty-1, Ty-2, Ty-3, or Ty-5 resistance genes. Resistant varieties significantly reduce losses but may still show mild symptoms under extreme virus pressure.
+3. Cultural Controls: Use UV-reflective mulches to deter whitefly landing on young plants. Install row covers or fine mesh (50-mesh) screens over transplants during early establishment. Remove and destroy infected plants as soon as symptoms appear. Maintain a host-free period between crop cycles.
+4. Sanitation: Remove crop residues and volunteer tomato plants promptly after harvest. Control weed hosts that serve as virus reservoirs.
+5. Planting Timing: Where possible, avoid planting during periods of peak whitefly population. In Florida, this typically means avoiding late summer and early fall plantings.
+
+---
+SOURCE: AVRDC — The World Vegetable Center — Management of TYLCV
+URL: https://avrdc.org/
+
+TYLCV and related begomoviruses are among the top constraints to tomato production in the tropics. Integrated management combining resistant varieties, whitefly control, and cultural practices provides the most effective and sustainable control. Resistant varieties have been the most impactful technology for managing TYLCV in developing countries.

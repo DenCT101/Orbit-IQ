@@ -1,0 +1,23 @@
+SOURCE: Ohio State University Extension — Strawberry Leaf Scorch
+URL: https://ohioline.osu.edu/factsheet/plpath-fru-36
+
+Strawberry leaf scorch is caused by the fungus Diplocarpon earlianum. It is a common foliar disease of strawberry that can weaken plants and reduce yields, particularly in matted-row production systems.
+
+SYMPTOMS AND IDENTIFICATION:
+Small (1-5 mm), irregular, dark purple to maroon spots appear on upper leaf surfaces. Spots are surrounded by a tan or yellowish halo. Unlike leaf spot (Mycosphaerella fragariae), leaf scorch lesions do NOT have a distinct white center. As the disease progresses, numerous spots merge, causing the leaf to appear scorched — turning dark purple-brown and drying up from the margins inward. Severely affected leaves curl, wilt, and die. Calyx tissue, petioles, runners, and flower stalks can also be infected.
+
+DISEASE CYCLE:
+Diplocarpon earlianum overwinters in infected dead leaves on the ground and on living leaves of overwintering plants. Spores (conidia) are produced in spring during warm, wet weather and splashed by rain to new foliage. Optimal infection conditions are temperatures of 70-85°F with prolonged leaf wetness (12+ hours). The disease is most severe in dense, matted plantings with poor air circulation and overhead irrigation.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Varieties: Plant varieties with resistance to leaf scorch. 'Jewel', 'Honeoye', and 'Allstar' have good resistance. Check variety recommendations for your region.
+2. Cultural Practices: Maintain narrow, well-thinned rows (12-18 inches wide) for good air circulation. Avoid overhead irrigation when possible. Remove old leaves by mowing after the last harvest in June-bearing plantings — this removes infected tissue and promotes healthy new growth.
+3. Fungicide Applications: Apply protectant fungicides (captan, thiram) during bloom and fruit development if disease pressure warrants. Post-harvest applications after renovation help protect new growth.
+4. Sanitation: Remove and destroy heavily infected plant debris. Control weeds that reduce air circulation in the planting.
+5. Site Selection: Choose well-drained sites with good air movement. Avoid low areas where moisture accumulates and fog settles.
+
+---
+SOURCE: University of Minnesota Extension — Strawberry Diseases
+URL: https://extension.umn.edu/fruit/growing-strawberries
+
+Leaf scorch is often confused with leaf spot, another common strawberry foliar disease. Accurate diagnosis is important because management strategies may differ slightly. Leaf scorch lesions lack the white center characteristic of leaf spot. Both diseases are managed similarly through resistant varieties, cultural practices, and fungicide applications.

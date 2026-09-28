@@ -1,0 +1,23 @@
+SOURCE: Cornell University — Late Blight of Tomato
+URL: https://vegpath.plantpath.wisc.edu/resources/tomato-late-blight/
+
+Late blight of tomato is caused by the oomycete Phytophthora infestans — the same organism responsible for the Irish Potato Famine. It remains the most destructive disease of tomato worldwide, capable of destroying entire fields within days.
+
+SYMPTOMS AND IDENTIFICATION:
+Water-soaked, pale green to dark green spots on leaves expand rapidly into large, brown-black, oily-looking lesions. White, downy sporulation appears on the lower leaf surface under humid conditions. Stem and petiole infections produce dark brown-black lesions. Fruit develop firm, brown, greasy-looking, irregular lesions. Affected plants emit a distinctive musty odor. The disease can kill plants within 1-2 weeks under favorable conditions.
+
+DISEASE CYCLE:
+Phytophthora infestans overwinters in infected potato tubers, not in tomato debris (in northern regions). Sporangia produced on infected tissue are wind-dispersed over long distances. Cool (50-70°F), wet conditions favor disease development. The pathogen has a very short generation time (3-5 days), allowing explosive epidemic growth.
+
+TREATMENT AND MANAGEMENT:
+1. Monitoring: Monitor USAblight.org for regional disease reports. Begin preventive fungicide applications when late blight is detected in your area.
+2. Fungicides: Preventive applications of chlorothalonil or mancozeb on 5-7 day intervals. Systemic products (Revus, Forum, Presidio) for curative control. Do NOT rely on metalaxyl/mefenoxam alone — resistant strains are common.
+3. Destroy Infected Plants: Remove and destroy infected plants immediately (bag and dispose — do NOT compost). This reduces local inoculum and protects neighbors.
+4. Cultural Practices: Use certified disease-free transplants. Avoid overhead irrigation. Improve air circulation. Harvest fruit before rain events during disease outbreaks.
+5. Resistant Varieties: 'Mountain Merit', 'Plum Regal', and 'Defiant PhR' carry the Ph-2 and/or Ph-3 resistance genes.
+
+---
+SOURCE: USAblight — Real-Time Late Blight Tracking
+URL: https://usablight.org
+
+USAblight.org is a real-time tracking and communication tool for late blight outbreaks in the United States. Growers, extension agents, and researchers report late blight occurrences, and the system sends alerts to subscribers in affected areas. Early warning allows growers to initiate preventive fungicide programs before disease arrives.

@@ -1,0 +1,27 @@
+SOURCE: University of Wisconsin Extension — Early Blight of Potato
+URL: https://vegpath.plantpath.wisc.edu/resources/potato-early-blight/
+
+Early blight of potato (and tomato) is caused by the fungus Alternaria solani. It is one of the most common and widespread foliar diseases of potato, occurring in virtually all potato-growing regions worldwide.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Dark brown to black, circular to oval lesions with characteristic concentric rings (target-board or bull's-eye pattern) appear on older, lower leaves first. Lesions are typically 1/4 to 1/2 inch in diameter. A yellow halo often surrounds lesions. The disease progresses from the bottom of the plant upward. Severely affected leaves wither and die, reducing photosynthetic capacity.
+
+Stem Symptoms: Dark, sunken, elongated lesions with concentric rings may develop on stems near the soil line, particularly at leaf axils.
+
+Tuber Symptoms: Dark, sunken, circular to irregular lesions appear on the tuber surface. Affected tissue beneath the lesion is dry, corky, and dark brown. Tuber infections provide entry for secondary soft rot bacteria that cause storage losses.
+
+DISEASE CYCLE:
+Alternaria solani overwinters in infected plant debris in the soil and on volunteer potato plants. Spores (conidia) are produced on overwintered debris in spring and dispersed by wind and rain splash. Warm temperatures (75-85°F), alternating wet and dry periods, and heavy dew favor spore production and infection. The fungus enters through stomata and wounds. Older leaves and stressed plants are most susceptible. The disease intensifies as the season progresses and plants approach maturity.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Varieties: Plant varieties with good early blight resistance. 'Elba', 'Sebago', and some Russet varieties show moderate resistance. Check university variety trial data for ratings specific to your region.
+2. Crop Rotation: Rotate with non-solanaceous crops for at least 2-3 years. This reduces soil-borne inoculum from infected debris.
+3. Cultural Practices: Maintain plant vigor through proper fertilization (especially adequate nitrogen and phosphorus), irrigation, and stress management. Stressed plants are much more susceptible. Hill potatoes thoroughly to protect tubers from infection.
+4. Fungicide Applications: Apply protectant fungicides (chlorothalonil, mancozeb) on a 7-10 day schedule beginning at row closure or first symptom appearance. Systemic fungicides (azoxystrobin, boscalid, difenoconazole) provide superior control and curative activity. Alternate fungicide groups to manage resistance.
+5. Harvest Management: Avoid harvesting in wet conditions. Cure tubers properly before storage to heal wounds and prevent storage rot. Remove infected plant debris from fields after harvest.
+
+---
+SOURCE: Cornell University — Early Blight Management in Potato
+URL: https://vegpath.plantpath.wisc.edu/resources/
+
+Early blight can reduce tuber yield by 20-30% through premature defoliation and direct tuber infection. Maintaining green leaf area through the bulking period (late season) is critical for maximizing tuber yield.

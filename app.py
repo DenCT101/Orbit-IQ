@@ -7,6 +7,9 @@ import numpy as np
 import torch
 import pandas as pd
 
+# RAG advisory imports
+from rag_query import query_rag
+
 
 disease_info = pd.read_csv('disease_info.csv' , encoding='cp1252')
 supplement_info = pd.read_csv('supplement_info.csv',encoding='cp1252')
@@ -27,6 +30,9 @@ def prediction(image_path):
 
 
 app = Flask(__name__)
+
+# Ensure upload directory exists
+os.makedirs('static/uploads', exist_ok=True)
 
 @app.route('/')
 def home_page():
@@ -60,8 +66,16 @@ def submit():
         supplement_name = supplement_info['supplement name'][pred]
         supplement_image_url = supplement_info['supplement image'][pred]
         supplement_buy_link = supplement_info['buy link'][pred]
+
+        # ── RAG Advisory ──────────────────────────────────────────
+        rag_result = query_rag(pred)
+        rag_advice = rag_result.get("advice", "")
+        rag_sources = rag_result.get("sources", [])
+        rag_error = rag_result.get("error", None)
+
         return render_template('submit.html' , title = title , desc = description , prevent = prevent , 
-                               image_url = image_url , pred = pred ,sname = supplement_name , simage = supplement_image_url , buy_link = supplement_buy_link)
+                               image_url = image_url , pred = pred ,sname = supplement_name , simage = supplement_image_url , buy_link = supplement_buy_link,
+                               rag_advice = rag_advice, rag_sources = rag_sources, rag_error = rag_error)
 
 @app.route('/market', methods=['GET', 'POST'])
 def market():

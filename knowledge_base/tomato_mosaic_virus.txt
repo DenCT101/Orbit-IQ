@@ -1,0 +1,27 @@
+SOURCE: University of Minnesota Extension — Tomato Mosaic Virus
+URL: https://extension.umn.edu/disease-management/tomato-mosaic-virus
+
+Tomato mosaic virus (ToMV) is a member of the genus Tobamovirus. It is closely related to tobacco mosaic virus (TMV) and was historically often grouped with it. ToMV is extremely stable, highly infectious, and readily transmitted mechanically, making it one of the most easily spread plant viruses.
+
+SYMPTOMS AND IDENTIFICATION:
+Leaf Symptoms: Light and dark green mottling (mosaic pattern) on leaves. Young leaves may be distorted, curled, or reduced in size. Fernleaf symptoms (extreme narrowing of leaf blades) may occur in some varieties. Plants may show general yellowing and reduced vigor.
+
+Fruit Symptoms: Uneven ripening with blotchy, yellow patches on ripe fruit. Internal browning of fruit wall. Reduced fruit size and quality. Some strains cause fruit necrosis and unmarketable fruit.
+
+Plant Symptoms: Stunting of overall plant growth, particularly when infection occurs early. Reduced fruit set and lower yields.
+
+DISEASE CYCLE:
+ToMV is extraordinarily stable and can survive for years in dried plant debris, on contaminated tools, in soil, and even on clothing and hands. The virus is transmitted mechanically through contact — workers handling infected plants can spread the virus to healthy plants within seconds. It can also be seed-borne (in the seed coat) and transmitted through contaminated tools, stakes, and greenhouse structures. No insect vector is required for transmission.
+
+TREATMENT AND MANAGEMENT:
+1. Resistant Varieties: Plant varieties carrying the Tm-2 or Tm-2² resistance genes. This is the most effective and practical management strategy. Most modern tomato varieties carry these resistance genes.
+2. Sanitation: Wash hands thoroughly with soap and water before handling plants. Dip tools in 10% bleach solution, 20% nonfat dry milk solution, or 70% alcohol between plants. Avoid smoking (tobacco can harbor TMV) near tomato plants. Sanitize greenhouse structures and equipment between crops.
+3. Seed Treatment: Use certified virus-free seed. Dry heat treatment of seed (150°F for 2-3 days) or chemical seed treatment (10% trisodium phosphate for 15 minutes) can reduce seed-borne virus.
+4. Cultural Practices: Remove and destroy infected plants immediately. Do not save seed from infected crops. Control perennial weeds that may harbor the virus.
+5. Milk Spray: Spraying a 20% solution of nonfat dry milk on plants before handling can help prevent mechanical transmission. The milk protein inactivates virus particles on plant surfaces.
+
+---
+SOURCE: University of Wisconsin Extension — Tobacco/Tomato Mosaic Virus
+URL: https://hort.extension.wisc.edu/articles/tobacco-mosaic-virus-tmv/
+
+ToMV is so stable that it has been detected in viable form in 50-year-old dried herbarium specimens. This extreme stability makes sanitation absolutely critical for management. Even thorough cleaning may not eliminate all virus particles from contaminated surfaces. Resistant varieties remain the most reliable defense against this virus.

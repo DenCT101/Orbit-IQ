@@ -1,0 +1,23 @@
+SOURCE: University of Georgia Extension — Grape Leaf Blight (Isariopsis Leaf Spot)
+URL: https://extension.uga.edu/publications/detail.html?number=C987
+
+Grape leaf blight, also known as Isariopsis leaf spot, is caused by the fungus Pseudocercospora vitis (syn. Isariopsis clavispora). This disease primarily affects grapevine foliage and is common in warm, humid grape-growing regions.
+
+SYMPTOMS AND IDENTIFICATION:
+Initial symptoms appear as small, dark brown to reddish-brown angular spots on the lower leaves of the vine. Spots are often delimited by leaf veins, giving them an angular appearance. As lesions mature, they develop a grayish-white center with a dark brown border. Under humid conditions, grayish-brown tufts of conidiophores and conidia may be visible on the lower leaf surface. Severe infections cause premature defoliation, starting with lower leaves and progressing upward through the canopy. Defoliation can weaken vines, reduce fruit quality, and impair winter hardiness.
+
+DISEASE CYCLE:
+The fungus overwinters on fallen infected leaves on the vineyard floor. Conidia are produced in spring during warm, wet weather and dispersed by wind and rain splash to new foliage. Infections occur when temperatures are between 65-85°F with extended periods of leaf wetness (8+ hours). The disease typically begins on lower, shaded leaves where humidity is highest and progresses upward. Multiple infection cycles occur throughout the growing season under favorable conditions.
+
+TREATMENT AND MANAGEMENT:
+1. Canopy Management: Open the canopy through proper training, shoot positioning, and leaf removal to improve air circulation. Remove basal leaves around fruit clusters to reduce humidity and promote drying.
+2. Sanitation: Remove and destroy fallen leaves from the vineyard floor to reduce overwintering inoculum. Composting or incorporation into the soil accelerates decomposition.
+3. Fungicide Applications: Apply protectant fungicides (mancozeb, captan) beginning at bloom and continuing through veraison. Systemic fungicides (myclobutanil, tebuconazole) can be used during high-pressure periods. Rotate fungicide classes to prevent resistance development.
+4. Resistant Varieties: Some grape varieties and rootstocks show varying levels of tolerance. Evaluate variety-specific susceptibility when planning new plantings.
+5. Cultural Practices: Maintain balanced vine nutrition — avoid excessive nitrogen, which promotes dense canopy growth. Ensure adequate spacing between vines and rows for air movement.
+
+---
+SOURCE: Grape Pathology Reference — Pseudocercospora vitis
+URL: https://www.plantwise.org/KnowledgeBank/datasheet/26787
+
+Leaf blight caused by Pseudocercospora vitis is widespread in tropical and subtropical grape regions, including parts of India, Brazil, and the southeastern United States. In severe cases, complete defoliation can occur by midsummer, severely impacting vine health and fruit maturation.

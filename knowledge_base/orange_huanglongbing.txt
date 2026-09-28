@@ -1,0 +1,28 @@
+SOURCE: University of Florida IFAS Extension — Citrus Greening (Huanglongbing)
+URL: https://edis.ifas.ufl.edu/publication/PP256
+
+Huanglongbing (HLB), also known as citrus greening, is the most devastating disease of citrus worldwide. It is caused by the bacterium Candidatus Liberibacter asiaticus, which is transmitted by the Asian citrus psyllid (Diaphorina citri). HLB has caused billions of dollars in losses to the Florida citrus industry since its detection in 2005.
+
+SYMPTOMS AND IDENTIFICATION:
+Foliar Symptoms: Asymmetric blotchy mottle pattern on leaves — irregular patches of yellow and green that do not follow leaf veins. This asymmetric mottling is the most diagnostic symptom. Leaves may be small, upright, and show zinc or manganese deficiency-like symptoms. Affected shoots produce small, thick, leathery leaves.
+
+Fruit Symptoms: Affected fruit are small, lopsided, and remain green at the stylar end even when mature (hence "greening"). Seeds are often aborted and dark-colored. Juice is bitter, acidic, and commercially unacceptable. Fruit may drop prematurely.
+
+Tree Symptoms: Initial symptoms often appear on a single branch or sector of the canopy. Over time, the entire tree declines. Root systems deteriorate before canopy symptoms become obvious. Severely affected trees are stunted, with thin canopy, dieback, and eventually death within 3-7 years of symptom onset.
+
+DISEASE CYCLE:
+The Asian citrus psyllid acquires the bacterium while feeding on infected plants. Once acquired, the insect remains infectious for life. Psyllid nymphs are more efficient vectors than adults. The bacterium colonizes the phloem of citrus, disrupting nutrient and sugar transport. Long incubation period (6 months to 2+ years) means trees can be infected and spreading disease before showing symptoms.
+
+TREATMENT AND MANAGEMENT:
+1. Psyllid Control: Aggressive management of Asian citrus psyllid populations through coordinated area-wide spray programs. Use systemic (imidacloprid, dinotefuran) and foliar (fenpropathrin, carbaryl) insecticides in rotation. Monitor psyllid populations with yellow sticky traps and stem tap sampling.
+2. Remove Infected Trees: Promptly remove and destroy confirmed HLB-positive trees to reduce inoculum in the grove. This is most effective when disease incidence is low (<5%).
+3. Nutrition Programs: Enhanced nutrition programs (foliar sprays of micronutrients including zinc, manganese, and boron) can help sustain productivity of mildly infected trees. This does NOT cure the disease but helps maintain tree vigor.
+4. Clean Nursery Stock: Use certified disease-free nursery trees produced in psyllid-proof screenhouses. This is now legally required in Florida and other HLB-affected regions.
+5. Thermotherapy: Experimental treatment involving wrapping trees in reflective plastic and using steam to heat the canopy to 130-140°F for several hours. This can temporarily reduce bacterial titers but is not commercially practical for large groves.
+6. Genetic Solutions: Resistant citrus varieties and transgenic approaches are under active research. Some trifoliate orange hybrids show tolerance to HLB.
+
+---
+SOURCE: USDA APHIS — Citrus Greening (Huanglongbing)
+URL: https://www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/citrus/citrus-greening
+
+HLB is now present in Florida, Texas, Louisiana, Georgia, South Carolina, Alabama, California, and the U.S. territories. There is currently no cure for HLB. The disease has reduced Florida's citrus production by over 70% since 2005, making it an existential threat to the U.S. citrus industry.

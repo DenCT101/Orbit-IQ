@@ -1,0 +1,30 @@
+SOURCE: University of Minnesota Extension — Apple Scab
+URL: https://extension.umn.edu/plant-diseases/apple-scab
+
+Apple scab is caused by the fungus Venturia inaequalis. It is the most common disease of apple and crabapple trees in Minnesota and other humid regions worldwide. The disease affects both leaves and fruit, causing significant economic losses in commercial orchards.
+
+SYMPTOMS AND IDENTIFICATION:
+Apple scab first appears as olive-green to brown velvety spots on leaves. These spots may merge and cover large portions of the leaf surface. Severely infected leaves turn yellow and drop prematurely, leading to defoliation by midsummer. On fruit, scab appears as rough, corky, brown-to-black lesions. Scabby fruit are often misshapen and crack, making them unmarketable and unfit for fresh consumption. Young fruit infections can cause fruit to drop early.
+
+DISEASE CYCLE:
+The fungus overwinters in fallen infected leaves on the ground. In spring, sexual spores (ascospores) are released during rain events and carried by wind to developing leaves and fruit. Primary infections occur from bud break through early summer. Once established, the fungus produces asexual spores (conidia) on leaf and fruit lesions, which cause secondary infections throughout the growing season. Warm, wet conditions (60–70°F with prolonged leaf wetness) are ideal for infection.
+
+TREATMENT AND MANAGEMENT:
+1. Cultural Controls: Rake and destroy fallen leaves in autumn to reduce overwintering inoculum. Prune trees to improve air circulation and promote faster drying of foliage. Avoid overhead irrigation.
+2. Resistant Varieties: Plant scab-resistant cultivars such as 'Liberty', 'Enterprise', 'Freedom', 'Pristine', and 'Redfree'. These varieties carry the Vf resistance gene and rarely require fungicide sprays for scab control.
+3. Fungicide Applications: Apply protectant fungicides (captan, mancozeb) starting at green tip and continuing through petal fall. Systemic fungicides (myclobutanil, propiconazole) can be used during high-risk infection periods. Follow the Mills infection period table to time sprays based on temperature and wetting duration.
+4. Integrated Approach: Combine cultural practices, resistant varieties, and targeted fungicide use for sustainable disease management.
+
+IMPACT ON YIELD:
+Severe scab epidemics can cause 70-100% fruit loss in susceptible varieties. Even light infections reduce fruit grade and market value. Premature defoliation weakens trees and reduces flower bud formation for the following year, leading to biennial bearing patterns.
+
+---
+SOURCE: Cornell University Cooperative Extension — Apple Scab Management
+URL: https://ecommons.corn
+ell.edu/handle/1813/43100
+
+Apple scab management requires an integrated approach combining orchard sanitation, disease forecasting, and timely fungicide applications. The Mills table, developed by W.D. Mills in 1944, remains the foundation of scab prediction systems. Modern computerized weather stations can automate infection period calculations and alert growers when sprays are needed.
+
+Postharvest urea applications (5% urea sprayed on fallen leaves in autumn) can accelerate leaf decomposition and reduce ascospore production by 50-80%. Flail mowing of leaf litter in early spring further reduces inoculum. These sanitation practices, combined with fungicide programs, can reduce the number of sprays needed per season.
+
+Biological control agents such as Microsphaeropsis ochracea have shown promise in reducing ascospore production when applied to fallen leaves. While not yet widely available commercially, biological approaches represent a growing area of research in sustainable apple scab management.

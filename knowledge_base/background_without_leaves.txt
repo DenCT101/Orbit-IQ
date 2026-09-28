@@ -1,0 +1,22 @@
+SOURCE: Agricultural Image Classification Guidelines
+URL: https://plantvillage.psu.edu/about
+
+This class represents background images captured without plant leaves present. These images may contain soil, sky, garden structures, or other non-leaf elements. The CNN model is trained to distinguish such backgrounds from actual plant leaf images.
+
+IDENTIFICATION:
+Background images lack the characteristic features of plant leaves such as veins, leaf margins, stomata, or chlorophyll coloration. They may contain:
+- Bare soil or mulch surfaces
+- Garden tools or equipment
+- Structural elements like fences, pots, or stakes
+- Sky or out-of-focus backgrounds
+- Mixed vegetation without clear individual leaves
+
+SIGNIFICANCE IN DISEASE DETECTION:
+Including a background class in the model prevents false positive diagnoses when non-leaf images are uploaded. Without this class, the model would be forced to classify any input as a plant disease, leading to misleading results. Users should ensure they photograph individual leaves clearly against contrasting backgrounds for accurate disease detection.
+
+BEST PRACTICES FOR IMAGE CAPTURE:
+1. Photograph individual leaves against a plain background
+2. Ensure adequate, even lighting without harsh shadows
+3. Capture both upper and lower leaf surfaces when possible
+4. Include multiple leaves if symptoms vary across the plant
+5. Take close-up images that fill the frame with the leaf
